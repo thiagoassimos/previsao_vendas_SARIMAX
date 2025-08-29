@@ -36,4 +36,5 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 <br>
 
    ``jupyter notebook analise_exploratoria.ipynb``
+   <br>
    ``jupyter notebook modelagem.ipynb``
