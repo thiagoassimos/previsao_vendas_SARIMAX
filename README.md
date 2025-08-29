@@ -7,13 +7,13 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 ## 📂 Estrutura
 
 ├── data/
-      ├── processed/
-        ├── processed_dataset.csv
-    ├── data_set.csv      
+│ ├── processed/
+│ │ └── processed_dataset.csv
+│ └── data_set.csv
 ├── docs/
-    ├── relatorio_tecnico.pdf   
-    ├── dicionario_de_dados.csv
+│ ├── relatorio_tecnico.pdf
+│ └── dicionario_de_dados.csv
 ├── notebooks/
-    ├── analise_exploratoria.ipynb
-    ├── modelagem.ipynb
+│ ├── analise_exploratoria.ipynb
+│ └── modelagem.ipynb
 └── README.md
