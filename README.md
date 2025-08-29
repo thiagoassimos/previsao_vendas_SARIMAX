@@ -25,7 +25,9 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 
 1. Instale as dependências listadas no arquivo ``requirements.txt`` com o seguinte comando:
 
-   ``pip install -r requirements.txt``  
+     ```bash
+   pip install -r requirements.txt
+   ```
 
 <br>
 
@@ -33,8 +35,8 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 <br>
 
 3. Execute os notebooks com:
-<br>
-
-   ``jupyter notebook analise_exploratoria.ipynb``
-   <br>
-   ``jupyter notebook modelagem.ipynb``
+   
+   ```bash
+   jupyter notebook analise_exploratoria.ipynb
+   jupyter notebook modelagem.ipynb
+   ```
