@@ -20,7 +20,6 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 └── requirements.txt
 
 ```
-
 # Pipeline de execução do projeto
 
 1. Instale as dependências listadas no arquivo ``requirements.txt`` com o seguinte comando:
