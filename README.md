@@ -9,7 +9,7 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 ├── data/
 │   ├── processed/
 │   │   └── processed_dataset.csv
-│   └── data_set.csv      
+│   └── dataset.csv      
 ├── docs/
 │   ├── relatorio_tecnico.pdf   
 │   └── dicionario_de_dados.csv
@@ -30,7 +30,7 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 
 <br>
 
-2. Certifique-se de que o dataset ``dataset.xlsx`` esteja na pasta ``data``.
+2. Certifique-se de que o dataset ``dataset.csv`` esteja na pasta ``data``.
 <br>
 
 3. Execute os notebooks com:
