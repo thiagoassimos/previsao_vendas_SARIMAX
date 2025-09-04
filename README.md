@@ -36,6 +36,7 @@ Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui 
 
 3. Execute os notebooks com:
    
+
    ```bash
    jupyter notebook analise_exploratoria.ipynb
    jupyter notebook modelagem.ipynb
