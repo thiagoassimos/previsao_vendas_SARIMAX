@@ -3,7 +3,7 @@
 Todos os detalhes sobre este projeto segue no relatório técnico. [Clique aqui para abrir o PDF diretamente](docs/relatorio_tecnico.pdf).
 
 
-# 📂 Estrutura
+# Estrutura
 
 ```text
 ├── data/
